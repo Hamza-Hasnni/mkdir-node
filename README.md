@@ -12,9 +12,7 @@
 
 And it will setup a basic node.js App
 
-```
 ![alt text](https://github.com/Hamza-Hasnni/mkdir-node/blob/[main]/structer.png?raw=true)
-```
 
 ## Like this project?
 
