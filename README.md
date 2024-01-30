@@ -12,7 +12,11 @@
 
 And it will setup a basic node.js App
 
+```
+![alt text](https://github.com/Hamza-Hasnni/mkdir-node/blob/[main]/structer.png?raw=true)
+```
+
 ## Like this project?
 
-If you are feeling generous, buy me a coffe!
-<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+If you are feeling generous, buy me a coffe!<br>
+<a href="https://www.buymeacoffee.com/time4coding" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
