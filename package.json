@@ -1,0 +1,31 @@
+{
+  "name": "folders-nodejs",
+  "version": "0.5.6",
+  "description": "This package help you create a node.js backend folders structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "data": "./data"
+  },
+  "files": [
+    "*"
+  ],
+  "bin": {
+    "folders-nodejs": "./bin/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "folders",
+    "structure"
+  ],
+  "author": "Hamza Hasni",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
